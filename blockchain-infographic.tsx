@@ -163,4 +163,3 @@ const WrappedBlockchainInfographic = () => (
 )
 
 export { WrappedBlockchainInfographic as BlockchainInfographic }
-
