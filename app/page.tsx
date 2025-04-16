@@ -6,8 +6,7 @@ export default function Home() {
       <div className="container px-4 py-8">
         <h1 className="text-3xl md:text-4xl font-bold text-center text-white mb-6">Blockchain & AI for Logistics</h1>
         <p className="text-gray-300 text-center max-w-2xl mx-auto mb-8">
-          Explore our platform's key features through this interactive 3D visualization. Click on any numbered face to
-          learn more.
+          Explore our platform's key features through this interactive 3D visualization.
         </p>
       </div>
 
