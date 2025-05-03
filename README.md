@@ -4,7 +4,7 @@
 </a>
 
 
-Built using Shadcn-ui component structure, three, react/three-fiber,framer-motion, TailwindCSS, and v0. Demoed using NextJS TypeScript app. 
+Built using Shadcn-ui component structure, three, react/three-fiber, framer-motion, TailwindCSS, and v0. Demoed using NextJS TypeScript app. 
 
 Simply click/tap and drag to move the object. Click or tap on the feature name to display a modal that provides the feature description. 
 
