@@ -1,6 +1,6 @@
 <a href="https://3d-prism-infographic.vercel.app/">
   <img alt="prism screen shot" src="https://quantumone.b-cdn.net/re0/Screenshot_20250420_123808_Chrome.jpg">
-  <h1 align="center">Interactive 3D Holographic Feature Prism</h1>
+  <h1 align="center">Interactive 3D Holographic Feature Prism Using Fibonacci Golden Ratio</h1>
 </a>
 
 
